@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="25" height="18" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Burger_Menu_Button" data-name="Burger Menu Button" transform="translate(-320 -95)">
+    <rect id="Button" width="40" height="40" rx="8" transform="translate(320 95)" fill="#ba2b26"/>
+    <g id="Burger_Menu" data-name="Burger Menu" transform="translate(328 106)" clip-path="url(#clip-path)">
+      <g transform="translate(-310 -30)">
+        <rect id="Rectangle" width="25" height="4" transform="translate(310 30)" fill="#fff"/>
+      </g>
+      <g transform="translate(-310 -23)">
+        <rect id="Rectangle-2" data-name="Rectangle" width="25" height="4" transform="translate(310 30)" fill="#fff"/>
+      </g>
+      <g transform="translate(-310 -16)">
+        <rect id="Rectangle-3" data-name="Rectangle" width="25" height="4" transform="translate(310 30)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

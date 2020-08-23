@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "JaacDemoApp",
+    "slug": "JaacDemoApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./App/Assets/icon.png",
+    "splash": {
+      "image": "./App/Assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [ "js", "jsx", "ts", "tsx", "svg" ]
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.JaacAppDemo",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.JaacAppDemo",
+      "versionCode": 1
+    }
+  }
+}
